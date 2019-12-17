@@ -53,5 +53,5 @@ def update_counting_hash(hash, key)
   else
    return hask[key]+=1
   end
-  
+  hash
 end
