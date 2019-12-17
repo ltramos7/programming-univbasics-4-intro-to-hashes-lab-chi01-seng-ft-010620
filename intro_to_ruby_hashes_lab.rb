@@ -52,7 +52,7 @@ def update_counting_hash(hash, key)
           # if hash[key]=1
           #   hash
           # else
-          #   hash[key]+=1
+          #   hash[key]+=1          #does this not work because of the order of the if statements?
           #   hash
           # end
   
